@@ -1,7 +1,7 @@
 const staticCacheName = 'site-static-v2'
 const assets = [
     '.',
-    'imt.html',
+    'index.html',
     'app.js',
     'logo.png',
     'style.css',
