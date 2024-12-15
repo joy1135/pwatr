@@ -1,11 +1,9 @@
 {
   "name": "КАЛЬКУЛЯТОР ИМТ",
-  "short_name": "",
   "theme_color": "#d4c1fe",
   "background_color": "#fff",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "",
   "start_url": "/",
   "icons": [
     {
